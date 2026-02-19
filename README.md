@@ -1,6 +1,10 @@
-# 8bit-ALU
-This is a hardware description of  8 bit ALU
-Thsi hardware description include the design of a 8 bit ALU of basic operations: 
+## 8-bit ALU
 
-Tools used : vivado 2025.1
-Language : Verilog 
+This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.  
+The design includes basic arithmetic and logical operations such as addition, subtraction, AND, OR, and XOR.
+
+The implementation is developed in Xilinx Vivado.
+
+### Tools Used
+- Xilinx Vivado 2025.1
+- Verilog HDL
